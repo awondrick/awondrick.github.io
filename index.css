@@ -3,8 +3,9 @@ body{
 }
 
 h1{
-  color: black
-  font-family: 'Faster One';font-size: 22px;
+  color: black;
+  font-family: 'Faster One', cursive;
+  font-size: 22px;
 }
 
 p{
