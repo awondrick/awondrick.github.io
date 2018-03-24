@@ -1,8 +1,12 @@
 body{
-  background-color: #2BEDC3
+  background-color: #2BEDC3;
 }
 
 h1{
   color: black
   font-family: 'Faster One';font-size: 22px;
+}
+
+p{
+  font-size: 12px;
 }
