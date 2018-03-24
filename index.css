@@ -6,9 +6,11 @@ h1{
   color: black;
   font-family: 'Faster One', cursive;
   font-size: 50px;
+  text-align: center;
 }
 
 p{
   font-size: 12px;
   font-family: 'Times New Roman' sans-serif;
+  text-align: center;
 }
