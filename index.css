@@ -37,3 +37,9 @@ p{
 background{
   background-image: url(https://imgur.com/a/eLmM3);
 }
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
